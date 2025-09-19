@@ -1,3 +1,7 @@
+# 🛒 SQL Customer-Orders-Products Analysis  
+
+This project demonstrates SQL case study using a **Customer–Products–Orders dataset**.  
+It covers queries across multiple levels: **Basic, Medium, Advanced, and Expert**, including joins, aggregations, subqueries, CTEs, and window functions.
 
 ---
 
